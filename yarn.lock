@@ -45,7 +45,7 @@
   resolved "https://registry.yarnpkg.com/@capacitor/android/-/android-3.7.0.tgz#6685390caf4afc821e0e24ee728fac8e6bf1572d"
   integrity sha512-SF06sqvEKvRnev+T+k4jjfDIdsqcDiGnzGld7oTtJipiO16xVkKPG0kEbFZEWkrMvhqRn6jNyl+ZHn5/9JR7nA==
 
-"@capacitor/cli@^4.1.0":
+"@capacitor/cli@^4.0.0":
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/@capacitor/cli/-/cli-4.1.0.tgz#90e3bddba2e508dbe1ad6d7be242ae95be8b870e"
   integrity sha512-SkMtohfjZS0tJdCtoqugHQIYJ4DowjXk4yQzDFXN3MnhjAKEQmB7QcZY5R8o9NoPMx0ngw2Bzm00e7RdyERvzg==
@@ -75,20 +75,25 @@
   dependencies:
     tslib "^2.1.0"
 
-"@capacitor/device@^1.0.0":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@capacitor/device/-/device-1.1.2.tgz#ac22702ad29971456cb83143ab11e712174e38a0"
-  integrity sha512-1i6yvuSC7Ys7fs4JsUtfwG/00d2FF2TvWpbYs7YbkXhp1vOTL510gwjc5S6FTyhh8M9sAaUU5tKB68XwlSK/GA==
+"@capacitor/device@^4.0.0":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@capacitor/device/-/device-4.0.1.tgz#4bf1e79aeba6d1ae07c7db0df44331bf18515887"
+  integrity sha512-D0jJFQYifmsgcz4X9MEEKH5E36ARK2CJcUCXJbcuFTChHSxK+ly7Kd6PZC73Y5GkEZIjpebWAWo5F3w9S4hsYQ==
 
-"@capacitor/dialog@^1.0.0":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@capacitor/dialog/-/dialog-1.0.7.tgz#d4e1a93dbb8fa0aa392f401f64748807ba21b84c"
-  integrity sha512-+B6lKlqlpZk9uDrHEYk2rj+b3DF1kxCqV+vGtKwNMr2tFvNppZVkYdZU+L503yAoFFejqgQ27n0A4vXg+BTcBQ==
+"@capacitor/dialog@^4.0.0":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@capacitor/dialog/-/dialog-4.0.1.tgz#b1d6812037da4cac4529d1d4916abfa15f8ec88e"
+  integrity sha512-mHcTU+z2SiGL0azdr4Pn9Qzq+AHKBIoDzAOUVAco+OyFsASdMu/+d/DB2MipA4VvO2QNnbcvvtSFwDnCoyg+aw==
 
 "@capacitor/filesystem@^1.0.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@capacitor/filesystem/-/filesystem-1.1.0.tgz#0bd6a8bc185b7fd9a1219c3080ab26c2b54ea8b6"
   integrity sha512-8O3UuvL8HNUEJvZnmn8yUmvgB1evtXfcF0oxIo3YbSlylqywJwS3JTiuhKmsvSxCdpbTy8IaTsutVh3gZgWbKg==
+
+"@capacitor/filesystem@^4.0.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@capacitor/filesystem/-/filesystem-4.1.0.tgz#610ec3c1e13d484218e6920354cc5644aa73454c"
+  integrity sha512-isUL8kyH+GzcWToNu1uGyn83pwrnOC6wevefN6kGsq0jluBfryJme6WG1VTq0gi3cw604t8j8XtVoTKz8V7gfQ==
 
 "@capacitor/ios@^3.0.0":
   version "3.7.0"
